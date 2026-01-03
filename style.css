@@ -38,6 +38,7 @@
             border-radius: 10px;
             display: flex;
             flex-direction: column;
+            box-shadow: 40px 30px 20px hsla(0, 19%, 22%, 0.468);
             
 
         }
